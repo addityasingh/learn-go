@@ -1,3 +1,10 @@
 bin
+pkg
 Godeps/_workspace
 _obj
+.vscode
+
+src/github.com/*
+src/golang.org/*
+src/google.golang.org
+!src/github.com/addityasingh
