@@ -1,7 +1,7 @@
-package brotli 
+package brotli
 
-// Accept a brotli encoded byte array and return decoded
+// Encode accepts a brotli encoded byte array and return decoded
 // value
-func Encode (b []byte) []byte {
-
+func Encode(b []byte) []byte {
+	return b
 }
